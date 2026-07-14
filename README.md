@@ -559,9 +559,14 @@ business reporting, thermal receipt printing, and offline synchronization.
 
 ---
 
+---
+
 ## 🖼️ System Interface Gallery
 
-Explore selected screens from **JMJ's SmartPOS System**, showcasing its user interface and business management features.
+
+<p align="center">
+Explore selected screens from <b>JMJ's SmartPOS System</b>, highlighting its modern interface, retail workflow, and complete business management modules.
+</p>
 
 <table>
 <tr>
@@ -570,9 +575,9 @@ Explore selected screens from **JMJ's SmartPOS System**, showcasing its user int
 
 ### 📋 Navigation Sidebar (Part 1)
 
-<img src="Sidebar-1.png" width="100%" alt="SmartPOS Sidebar Part 1"/>
+<img src="Sidebar-1.jpeg" width="100%" alt="SmartPOS Sidebar Part 1"/>
 
-*Dashboard, POS, Reports, Inventory Modules*
+*Dashboard, POS, Reports, Profit Tracker, Inventory, Purchases, Movements, Returns, Transfers, Supplier Return, and Stocktake modules.*
 
 </td>
 
@@ -580,27 +585,20 @@ Explore selected screens from **JMJ's SmartPOS System**, showcasing its user int
 
 ### 📋 Navigation Sidebar (Part 2)
 
-<img src="Sidebar-2.png" width="100%" alt="SmartPOS Sidebar Part 2"/>
+<img src="Sidebar-2.jpeg" width="100%" alt="SmartPOS Sidebar Part 2"/>
 
-*Sales, Finance, Administration, Settings, Users & Roles*
-
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2" align="center">
-
-### 🛒 Point of Sale
-
-<img src="POS.jpeg" width="100%" alt="SmartPOS Point of Sale"/>
-
-*Modern cloud-based Point-of-Sale interface featuring inventory management, barcode scanning, accounts receivable, receipt printing, and offline synchronization.*
+*Sales, Accounts Receivable, Expenses, Receipts, Shift Control, Cash Drawer, Cash Flow, Customers, Suppliers, Logs, Archive, Settings, and Users & Roles.*
 
 </td>
 
 </tr>
+</table>
+
+<p align="center">
+<i>The navigation sidebar demonstrates the complete business workflow of JMJ's SmartPOS System, covering retail operations, inventory management, sales, finance, reporting, and system administration.</i>
+</p>
+
+---
 
 </table>
 
