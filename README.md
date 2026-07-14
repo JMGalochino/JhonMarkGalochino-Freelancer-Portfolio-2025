@@ -532,41 +532,79 @@ Business Operations
 
 ---
 
-## 🖥️ System Preview
+---
+
+## 🖥️ JMJ's SmartPOS System Preview
 
 <p align="center">
-  <img
-    src="SmartPOS.png"
-    alt="JMJ's SmartPOS System Preview"
-    width="100%"
-  />
+A modern cloud-based <b>Point-of-Sale and Inventory Management System</b><br>
+designed for real retail operations.
 </p>
 
-> Save your main SmartPOS screenshot in the repository using the filename **`SmartPOS.png`** so it displays correctly here.
+<p align="center">
+<a href="https://jmjs-business-system.web.app">
+<img src="POS.jpeg" alt="JMJ's SmartPOS System Preview" width="100%">
+</a>
+</p>
+
+<p align="center">
+<i>
+Main dashboard of JMJ's SmartPOS System featuring Point-of-Sale operations,
+inventory management, barcode scanning, accounts receivable,
+business reporting, thermal receipt printing, and offline synchronization.
+</i>
+</p>
 
 ---
 
-## 📸 Planned System Gallery
+---
 
-Additional screenshots can be added later using these filenames:
+## 🖼️ System Interface Gallery
 
-| Dashboard | Point of Sale |
-|:--:|:--:|
-| `Dashboard.png` | `POS.png` |
+Explore selected screens from **JMJ's SmartPOS System**, showcasing its user interface and business management features.
 
-| Inventory | Accounts Receivable |
-|:--:|:--:|
-| `Inventory.png` | `Receivables.png` |
+<table>
+<tr>
 
-| Reports | Shift Control |
-|:--:|:--:|
-| `Reports.png` | `ShiftControl.png` |
+<td align="center" width="50%">
 
-| Receipt Preview | Settings |
-|:--:|:--:|
-| `Receipt.png` | `Settings.png` |
+### 📋 Navigation Sidebar (Part 1)
 
-Kapag ready na ang screenshots, palitan natin itong filename guide ng actual image gallery.
+<img src="Sidebar-1.png" width="100%" alt="SmartPOS Sidebar Part 1"/>
+
+*Dashboard, POS, Reports, Inventory Modules*
+
+</td>
+
+<td align="center" width="50%">
+
+### 📋 Navigation Sidebar (Part 2)
+
+<img src="Sidebar-2.png" width="100%" alt="SmartPOS Sidebar Part 2"/>
+
+*Sales, Finance, Administration, Settings, Users & Roles*
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" align="center">
+
+### 🛒 Point of Sale
+
+<img src="POS.jpeg" width="100%" alt="SmartPOS Point of Sale"/>
+
+*Modern cloud-based Point-of-Sale interface featuring inventory management, barcode scanning, accounts receivable, receipt printing, and offline synchronization.*
+
+</td>
+
+</tr>
+
+</table>
+
+---
 
 ---
 
